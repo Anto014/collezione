@@ -10,7 +10,7 @@ public class Collezione {
 	public void inserisciOpera(boolean quadro, String titolo, String nome, double alt, double larg, double prof) {
 		
 		OperaArte op;
-		//try {
+		//ciao try {
 			if (quadro) {
 				op = new Quadro(titolo, nome, alt, larg);
 				System.out.println("Quadro inserito correttamente");
