@@ -16,6 +16,7 @@ public class Main {
 		Collezione coll = new Collezione();
 		
 		do {
+			//ciao
 		
 			System.out.println("Premi 1 per inserire un'opera, 2 per accedere all'opera, 3 per stampare la collezione: ");
 			scelta = input.nextInt();
